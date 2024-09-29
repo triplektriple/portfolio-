@@ -1,6 +1,9 @@
-## wecome to my profile
+# Welcome to Krishna's Portfolio
 
-i have created it using 
-- html
-- css
-- sass
+### Tools I have used
+
+ - HTML
+ - CSS
+ - SASS
+
+### Thank you for visiting my portfolio.
